@@ -1,0 +1,5 @@
+{
+  "name": "ThumbSwap AI",
+  "description": "Smart thumbnail editor that swaps characters while preserving original text, layout, and style using Gemini AI.",
+  "requestFramePermissions": []
+}
